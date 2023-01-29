@@ -1,0 +1,105 @@
+{
+  "main": {
+    "id": "ecb2890171533174",
+    "type": "split",
+    "children": [
+      {
+        "id": "9529fd5dddd9d486",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7df3a781a9c58442",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "54039a187c6a2218",
+    "type": "split",
+    "children": [
+      {
+        "id": "b4b46778dca2c150",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c1b9cf3ebedc3d3a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5cb0ecfa75e76252",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ff3c6dacc5b599c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe323f72ee8c6c09",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "922bccace2ff3146",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "7df3a781a9c58442",
+  "lastOpenFiles": [
+    "Gaps vs Tentacles.md",
+    "The Identity Space.md",
+    "Identity Engineering.md",
+    "USIS Foundations Requirements A.md",
+    "attachments/ontology_whiteboard_PXL_20221011_184128756.jpg",
+    "Ontology - first pass terms alignment.md",
+    "Common Technical Procceses + SE Engine.md",
+    "Systems Enginering.md",
+    "Meeting - UDRC Exporter w Chance.md",
+    "GCP - Exporter Initialization and Config.md"
+  ]
+}

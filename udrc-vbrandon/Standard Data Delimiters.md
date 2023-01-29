@@ -1,0 +1,3 @@
+Why don't we have computer specific data delimiters?  They would make CSV's much more parseable. That said, maybe we just need to get away from .csv's and go to better data formats where columns are better represented...
+
+[[csv]] [[parquet]]
